@@ -7,8 +7,10 @@
 - [Problem Statement](#problem-statement)
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 
  
 ## Project Overview
@@ -45,37 +47,36 @@ This project follows a data-driven approach using:
 - Employee satisfaction impact on customer feedback.
 - Patterns in service quality issues.
 
+## Exploratory Data Analysis
+I explored the data source to answer the following key questions:
+- What is the correlation between job satisfacction and customer feedback?
+- Which employees or departments receive the highest/lowest customer satisfaction rating?
+- Are their patterns in employee sentiment that align with csutomer feedback trends?
+- Are there departments or job roles consistently receiving negative reviews?
+- Does training hours show improved customer satisfaction?
+
 ## Key Insights
 - High Rate of Negative Feedback: A significant portion of customers have expressed dissatisfaction with products and services, which could harm the organization's reputation and long-term customer retention.
-- Customer Satisfaction Score Below Midpoint: The overall satisfaction score is slightly below average, emphasizing the urgent need for improvement—especially if the organization's goal is to maximize customer satisfaction.
-- Sales & Support Departments Receive the Most Negative Feedback: As the two most customer-facing departments, the high volume of negative feedback in Sales and Support suggests critical service issues that require immediate attention.
-- Recurring Feedback Trends: The most common customer complaints include unresponsiveness, rudeness, poor communication, slow response times, and unhelpful service. These issues could stem from lack of proper customer service training, high employee workload, or employee dissatisfaction.
-- Fluctuations in Work Hours Affect Employee Performance: Irregular work schedules may contribute to inconsistent service quality and lower customer satisfaction. Establishing clear, regulated work hours could help stabilize performance.
-- Account Managers Have the Lowest Customer Ratings: Given their leadership role, further investigation is needed to understand why account managers receive the lowest ratings and what can be done to improve their effectiveness.
+- The overall satisfaction score is slightly below average, emphasizing the urgent need for improvement—especially if the organization's goal is to maximize customer satisfaction.
+- As the two most customer-facing departments, the high volume of negative feedback in Sales and Support suggests critical service issues that require immediate attention.
+- The most common customer complaints include unresponsiveness, rudeness, poor communication, slow response times, and unhelpful service. These issues could stem from lack of proper customer service training, high employee workload, or employee dissatisfaction.
+- Irregular work schedules may contribute to inconsistent service quality and lower customer satisfaction. Establishing clear, regulated work hours could help stabilize performance.
+- High employee turnover in Sales could be contributing to inconsistent service quality and customer dissatisfaction.
+- Given their leadership role, further investigation is needed to understand why account managers receive the lowest ratings and what can be done to improve their effectiveness.
 
-  ## Recommendations
-- Conduct a Root Cause Analysis on Negative Feedback Trends
-    - The Talent Management team should gather employee perspectives through surveys and focus groups to understand internal factors driving poor customer experience.
-- Foster a Culture of Continuous Feedback:
-  - The organization should create an open-feedback culture where employees feel encouraged to share challenges, suggest improvements, and receive constructive feedback for professional growth.
-- Monitor Customer Satisfaction Trends Regularly
-  - Implement quarterly or yearly reviews of satisfaction trends.
-  - Conduct segmentation analysis to track satisfaction across different customer groups and tailor business decisions accordingly.
-- Enhance Training Programs for Customer-Facing Employees
-  - Shift from generic training to scenario-based, soft skills training to improve real-world application.
-  - Evaluate current training effectiveness and adjust based on employee and customer feedback.
-- Improve Communication & Response Time Efficiency
-  - Set clear response time KPIs for customer service teams.
-  - Implement a ticketing system with priority levels for better issue resolution.
-  - Offer self-service options to reduce dependency on support teams for basic inquiries.
-- Enhance Employee Engagement & Satisfaction.
-  - Monitor workload distribution to prevent burnout and inefficiencies.
-  - Encourage employee feedback mechanisms to identify workplace concerns early. Introduce an incentive program to recognize and reward excellent customer service.
+## Recommendations
+- Conduct a Root Cause Analysis on Negative Feedback Trends by gathering employee perspectives through surveys and focus groups to understand internal factors driving poor customer experience.
+- The organisation should create an open-feedback culture where employees feel encouraged to share challenges, suggest improvements, and receive constructive feedback for professional growth.
+- Monitor Customer Satisfaction Trends Regularly by implementing quarterly or yearly reviews of satisfaction trends and conducting segmentation analysis to track satisfaction across different customer groups and tailor business decisions accordingly.
+- Enhance Training Programs for Customer-Facing Employees by shifting from generic training to scenario-based, soft skills training to improve real-world application. They should also evaluate current training effectiveness and adjust based on employee and customer feedback.
+- Improve Communication & Response Time Efficiency by setting clear response time KPIs for customer service teams and implementing a ticketing system with priority levels for better issue resolution.They can also offer self-service options to reduce dependency on support teams for basic inquiries.
+- Enhance Employee Engagement & Satisfaction by monitoring workload distribution to prevent burnout and inefficiencies and encouraging employee feedback mechanisms to identify workplace concerns early. They could also introduce an incentive program to recognize and reward excellent customer service.
 - Standardize Work Hours to Improve Performance & Satisfaction: Establish regulated working hours to reduce employee fatigue and service inconsistencies.
 - Assess & Align Company Culture with Internal & External Goals. Review how well the company culture supports employees in meeting service expectations and maintaining morale. 
 - Implement Periodic Employee Sentiment Surveys: Conduct regular surveys to gauge employee morale, workload concerns, and job satisfaction trends.
-- Overhaul Customer Service & Company-Wide Training Programs.
- - Redesign the customer service training program to address key problem areas.
- - Expand training initiatives beyond customer-facing teams to improve overall organizational service quality.
+- Overhaul Customer Service & Company-Wide Training Programs by redesigning the customer service training program to address key problem areas. The training initiatives should be expanded beyond customer-facing teams to improve overall organizational service quality.
+
+## Conclusion
+This analysis identifies key areas that influence customer satisfaction and employee performance. To enhance service quality, it is essential to address negative feedback, improve training effectiveness, and optimize workload management. The organization can elevate customer experience, employee engagement, and overall business performance by implementing data-driven strategies, fostering a culture of continuous feedback, and regular monitoring of trends.
 
 
