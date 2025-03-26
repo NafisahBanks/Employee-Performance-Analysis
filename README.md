@@ -1,6 +1,7 @@
 # Employee-Performance-Analysis
 ## HR Analytics on Customer Feedback Analysis: Evaluating Employee Performance Impact on Customer Satisfaction
 
+![jakub-zerdzicki-ykgLX_CwtDw-unsplash](https://github.com/user-attachments/assets/6ba0a71b-4fe0-4c11-ad51-e3d4da7c1d31)
 
 
 ## Table of Contents
@@ -51,11 +52,11 @@ This project follows a data-driven approach using:
 
 ## Exploratory Data Analysis
 I explored the data source to answer the following key questions:
-- What is the correlation between job satisfacction and customer feedback?
+- What is the correlation between job satisfaction and customer feedback?
 - Which employees or departments receive the highest/lowest customer satisfaction rating?
-- Are their patterns in employee sentiment that align with csutomer feedback trends?
+- Are there patterns in employee sentiment that align with customer feedback trends?
 - Are there departments or job roles consistently receiving negative reviews?
-- Does training hours show improved customer satisfaction?
+- Do training hours show improved customer satisfaction?
 
 ## Key Insights
 - High Rate of Negative Feedback: A significant portion of customers have expressed dissatisfaction with products and services, which could harm the organization's reputation and long-term customer retention.
@@ -65,6 +66,9 @@ I explored the data source to answer the following key questions:
 - Irregular work schedules may contribute to inconsistent service quality and lower customer satisfaction. Establishing clear, regulated work hours could help stabilize performance.
 - High employee turnover in Sales could be contributing to inconsistent service quality and customer dissatisfaction.
 - Given their leadership role, further investigation is needed to understand why account managers receive the lowest ratings and what can be done to improve their effectiveness.
+
+![Employee Engagement 1](https://github.com/user-attachments/assets/88a4edf7-406f-424a-b618-17686ac02a73)
+
 
 ## Recommendations
 - Conduct a Root Cause Analysis on Negative Feedback Trends by gathering employee perspectives through surveys and focus groups to understand internal factors driving poor customer experience.
